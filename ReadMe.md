@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science Engineering Graduate (2026)<br><br>💻 Passionate about Software Development and Problem Solving.<br><br>🌱 Currently learning Data Structures & Algorithms (DSA) using JavaScript and solving problems on LeetCode.<br><br>🚀 Skilled in:<br><br>HTML5<br>CSS3<br>JavaScript <br>Git & GitHub<br><br>📚 Currently focusing on:<br><br>DSA<br>Clean Code<br>Building real-world projects<br><br>🎯 Goal:<br>To start my career as a Software Engineer and continuously improve my development and problem-solving skills.<br><br>📫 Feel free to connect and collaborate on interesting projects!
+🎓 Computer Science Engineering Graduate (2026)<br><br>💻 Passionate about Software Development and Problem Solving.<br><br>🌱 Currently learning Data Structures & Algorithms (DSA) using JavaScript and solving problems on LeetCode.<br><br>🚀 Skilled in:<br><br>HTML5<br>CSS<br>JavaScript <br>Git & GitHub<br><br>📚 Currently focusing on:<br><br>DSA<br>Clean Code<br>Building real-world projects<br><br>🎯 Goal:<br>To start my career as a Software Engineer and continuously improve my development and problem-solving skills.<br><br>📫 Feel free to connect and collaborate on interesting projects!
 
 
 ## 🌐 Socials:
